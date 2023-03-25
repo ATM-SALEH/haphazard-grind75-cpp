@@ -5,7 +5,7 @@ services:
     volumes:
       - .:/workarea
     working_dir: /workarea
-    command: bash -c "python scripts/gen_template.py"
+    command: bash -c "python scripts/gen_template.py -g ${GRIND} -s ${SOLUTION}"
   utest:
     build:
       context: .
