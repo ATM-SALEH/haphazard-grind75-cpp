@@ -1,5 +1,11 @@
 version: "3.9"
 services:
+  gen-template:
+    image: python:3.11
+    volumes:
+      - .:/workarea
+    working_dir: /workarea
+    command: bash -c "python scripts/gen_template.py"
   utest:
     build:
       context: .
