@@ -1,4 +1,4 @@
-#include <g1.h>
+#include "g1.h"
 
 class S1 : public G1
 {
