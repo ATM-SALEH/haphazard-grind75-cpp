@@ -42,3 +42,4 @@ GRIND=<grind_hash> SOLUTON=<solution_hash> docker-compose run --rm gen-template
 | Problem Title | Problem Statement | Solution(s) | 
 | ------------- | ----------------- | ----------- |
 | Two Sum       | [Link](https://leetcode.com/problems/two-sum) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g1) |
+| Valid Parentheses       | [Link](https://leetcode.com/problems/valid-parentheses) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g2) |
