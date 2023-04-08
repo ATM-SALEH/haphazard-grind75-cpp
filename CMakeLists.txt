@@ -7,5 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_subdirectory(tdps/google-test)
 
+enable_testing()
+
 add_subdirectory(src)
-add_subdirectory(tests/unit)
