@@ -36,3 +36,9 @@ python3 scripts/gen_template -g <grind_hash> -s <solution_hash>
 GRIND=<grind_hash> SOLUTON=<solution_hash> docker-compose run --rm gen-template
 (e.g. GRIND=3 SOLUTON=1 docker-compose run --rm gen-template)
 ```
+
+### Solved Problems 
+
+| Problem Title | Problem Statement | Solution(s) | 
+| ------------- | ----------------- | ----------- |
+| Two Sum       | [Link](https://leetcode.com/problems/two-sum) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g1) |
