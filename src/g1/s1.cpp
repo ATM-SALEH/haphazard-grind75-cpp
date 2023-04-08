@@ -1,4 +1,4 @@
-#include "s1.h"
+#include <s1.h>
 #include <unordered_map>
 
 Result S1::twoSum(const std::vector<int>& nums, int target) const

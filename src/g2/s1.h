@@ -1,6 +1,6 @@
 #ifndef S1_G2_H_INCLUDED
 #define S1_G2_H_INCLUDED
-#include "g2.h"
+#include <g2.h>
 
 namespace g2
 {

@@ -1,4 +1,4 @@
-#include "s1.h"
+#include <s1.h>
 #include <gtest/gtest.h>
 
 TEST(G2S1Tests, ExampleTest)

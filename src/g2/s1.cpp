@@ -1,4 +1,4 @@
-#include "s1.h"
+#include <s1.h>
 
 namespace g2
 {
