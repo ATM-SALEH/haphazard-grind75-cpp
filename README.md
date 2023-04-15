@@ -43,3 +43,5 @@ GRIND=<grind_hash> SOLUTON=<solution_hash> docker-compose run --rm gen-template
 | ------------- | ----------------- | ----------- |
 | Two Sum       | [Link](https://leetcode.com/problems/two-sum) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g1) |
 | Valid Parentheses       | [Link](https://leetcode.com/problems/valid-parentheses) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g2) |
+| Merge Two Sorted Lists       | [Link](https://leetcode.com/problems/merge-two-sorted-lists) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g3) |
+| Best Time to Buy and Sell Stock       | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Link](https://github.com/ATM-SALEH/haphazard-grind75-cpp/tree/main/src/g4) |
