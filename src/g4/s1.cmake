@@ -1,0 +1,5 @@
+add_library(g4s1
+    s1.cpp    
+)
+
+target_include_directories(g4s1 PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
